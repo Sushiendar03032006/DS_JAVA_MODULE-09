@@ -1,6 +1,6 @@
 # Ex20 Sorting an Array using Merge Sort Algorithm
 
-## DATE:13.11.2025  
+## DATE:10.10.2025  
 
 ### Developed by
 **Name:** SUSHIENDAR M
