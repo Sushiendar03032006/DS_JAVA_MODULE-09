@@ -109,7 +109,6 @@ public class ParenChecker {
 <img width="363" height="130" alt="image" src="https://github.com/user-attachments/assets/196a6228-ef4b-4a78-8d15-a64f4b35a907" />
 
 
-
 ## Result:
 Thus,the program correctly checks whether an input string has balanced parentheses using a stack.
 
