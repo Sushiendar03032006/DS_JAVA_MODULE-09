@@ -22,8 +22,8 @@ To write a Java program that verifies whether the parentheses (brackets) in an i
 ```java
 /*
 Program to verify whether the parentheses (brackets) in an input string are balanced
-Developed by: ASWIN B
-Register Number: 212224110007
+Developed by: SUSHIENDAR M
+Register Number: 212223040217
 */
 
 import java.util.Scanner;
